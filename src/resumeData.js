@@ -2,13 +2,13 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Adarsha C R",
     "role": "Software Engineer",
-    "linkedinId":"https://www.linkedin.com/in/adarsha-c-r-012a1a142/",
+    "linkedinId":"https://www.linkedin.com/in/adarshacr/",
     "skypeid": "Your skypeid",
     "roleDescription": "currently working in a company called CloudThing, have knowledge in Back-end, Dynamics CRM and Front-end.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/adarsha-c-r-012a1a142/",
+          "url":"https://www.linkedin.com/in/adarshacr/",
           "className":"fa fa-linkedin"
         },
         {
