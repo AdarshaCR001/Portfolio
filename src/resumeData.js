@@ -30,7 +30,7 @@ let resumeData = {
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Till",
         "YearOfLeaving":"Now",
-        "Description":"ICAEW is a educational institute for Chartered Accountants in England  and Wales. I am a CRM developer  responsible for creating plugins and workflows in C# and javascript for client-side validation."
+        "Description":"ICAEW is a educational Institute of Chartered Accountants in England  and Wales. I am a CRM developer responsible for creating plugins and workflows in C# and validation of forms in Javascript."
       },
       {
         "ProjectName":"CLOUDTHING INTERNAL",
@@ -39,7 +39,7 @@ let resumeData = {
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Till",
         "YearOfLeaving":"Now",
-        "Description":"Cloudthing Internal is a CRM internal project of the company as name tells, which we use for projects maintenance, services to projects and to store employee data and time entry. As a CRM developer I develop plugins, workflow in C# and Microsoft Flow to automate process."
+        "Description":"Cloudthing Internal is a CRM internal project of the company as name tells, which we use for projects maintenance, services to projects and to store employee data and time entry. As a CRM developer I develop plugins, workflows in C# and automate process using Microsoft Flow."
       },
       {
         "ProjectName":"INTERNSHIP",
@@ -48,7 +48,7 @@ let resumeData = {
         "YearOfJoining":"2018",
         "MonthOfLeaving":"Apr",
         "YearOfLeaving":"2018",
-        "Description":"I Worked as a full-stack developer as an Intern. We were designing a science-based nutrition website called Nutriwick. Html, CSS with Bootstrap 3 and JavaScript with JQuery for Front-end and in Back-end Php for bussiness logic and MySql for Databases."
+        "Description":"I Worked as a full-stack developer as an Intern. Designed a science-based nutrition website called Nutriwick. Used Html, CSS with Bootstrap 3 and JavaScript with JQuery for Front-end and used Php for Back-end bussiness logic and MySql for Databases."
       }
     ],
     "education":[
