@@ -11,7 +11,7 @@ export default class Footer extends Component {
               resumeData.socialLinks && resumeData.socialLinks.map((item)=>{
                 return(
                   <li>
-                    <a target="_blank" href={item.url}>
+                    <a target="_blank" href={item.url} rel="noopener noreferrer">
                     <i className={item.className} />
                     </a>
                   </li>
