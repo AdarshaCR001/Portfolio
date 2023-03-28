@@ -12,8 +12,8 @@ class App extends Component {
         <Resume resumeData={resumeData}/>
         {/* <Portfolio resumeData={resumeData}/>
         <Testimonials resumeData={resumeData}/> */}
-        <ContactUs resumeData={resumeData}/>
-        <Footer resumeData={resumeData}/>
+        {/* <ContactUs resumeData={resumeData}/> */}
+        {/* <Footer resumeData={resumeData}/> */}
       </div>
     );
   }
